@@ -15,15 +15,15 @@ CSST_104_Advanced-Machine-Learning is designed to provide students with an in-de
 
 [Unsupervised Learning](#Unsupervised-Learning)
 
-Advanced Topics in Neural Networks
+[Advanced Topics in Neural Networks](#Advanced-Topics-in-Neural-Networks)
 
-Evaluation Metrics and Model Selection
+[Evaluation Metrics and Model Selection](#Evaluation-Metrics-and-Model-Selection)
 
-Advanced Topics in Machine Learning
+[Advanced Topics in Machine Learning](#Advanced-Topics-in-Machine-Learning)
 
-Ethical Considerations in Advanced Machine Learning
+[Ethical Considerations in Advanced Machine Learning](#Ethical-Considerations-in-Advanced-Machine-Learning)
 
-Case Studies and Applications
+[Case Studies and Applications](#Case-Studies-and-Applications)
 
 Future Trends in Advanced Machine Learning
 
