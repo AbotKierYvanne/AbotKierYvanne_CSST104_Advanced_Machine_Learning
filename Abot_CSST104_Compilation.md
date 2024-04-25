@@ -31,31 +31,31 @@ CSST_104_Advanced-Machine-Learning is designed to provide students with an in-de
 
 **Exercises**
 
-Exercise 1 -  [Creating and Testing a Non-Deterministic Finite Automata (NFA) in Python using automata-lib](https://colab.research.google.com/drive/1F2k5plssj_boVFz0OQTzsmtoNSn6P5C7?authuser=1#scrollTo=sBxn3Zq7CG1A)
+Exercise 1 -  [Creating and Testing a Non-Deterministic Finite Automata (NFA) in Python using automata-lib](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/3A_Abot_Collab_Exer1.ipynb)
 
-Exercise 2 - [Deterministic Finite Automata](https://colab.research.google.com/drive/1HOslbQzlhNn91PJAhQVF4tZX3OEHhGFk)
+Exercise 2 - [Deterministic Finite Automata](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/Abot-Collab-Exer2-3A.ipynb)
 
-Exercise 3 - [NFA to DFA conversion using Epsilon Closures and Subset Construction](https://colab.research.google.com/drive/1MOBT52Zt3yE42MaLwdOS2jRUz3v7JEb9)
+Exercise 3 - [NFA to DFA conversion using Epsilon Closures and Subset Construction](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/Abot-Collab-Exer3-3A.ipynb)
 
-Exercise 4 - [Pushdown Automation Diagram Generation in Python using graphViz](https://colab.research.google.com/drive/1Grs4gZp5m09a68On9nlz2JX0B1ff3yRl)
+Exercise 4 - [Pushdown Automation Diagram Generation in Python using graphViz]([https://colab.research.google.com/drive/1Grs4gZp5m09a68On9nlz2JX0B1ff3yRl](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/Abot-Collab-Exer4-3A.ipynb))
 
-Exercise 5 - [Assessment Task 5: Bank Customer](https://colab.research.google.com/drive/1LiHzWyrVmZJ01AhPSrH-Q-GHQYSlzuP7?authuser=1)
+Exercise 5 - [Assessment Task 5: Bank Customer](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/AbotKierYvanne_Logistic_Regression.ipynb)
 
-Exercise 6 - [Logistic Regression Model](https://colab.research.google.com/drive/1nMK3dX5vVzSMKuOG2PTEAo9cZxDRwmfx?authuser=1)
+Exercise 6 - [Logistic Regression Model](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/3A-ABOT-EXER6.ipynb)
 
-Exercise 7 - [Linear Regression Model](https://colab.research.google.com/drive/1uJAudUqcb_9Uu5ZwGtm6OL1Myj0eCLE6?authuser=1)
+Exercise 7 - [Linear Regression Model](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/3A-ABOT-EXER7%20.ipynb)
 
-Exercise 8 - [Arima](https://colab.research.google.com/drive/1MUe2RHlmyxod8wI5m8mFV7yEelkZ-wyt?authuser=1)
+Exercise 8 - [Arima](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/3A-ABOT-EXER8.ipynb)
 
 **Activities**
 
-Activity 1 - [Creating and Testing a Non-Deterministic Finite Automata (NFA) in Python using automata-lib](https://colab.research.google.com/drive/1EO6VkUyw7VbngiAohOBHIP0hmbOlFRQ0)
+Activity 1 - [Creating and Testing a Non-Deterministic Finite Automata (NFA) in Python using automata-lib](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/Abot-Collab-Exer1-3A.ipynb)
 
-Activity 2 - [Deterministic Finite Automata](https://colab.research.google.com/drive/1HOslbQzlhNn91PJAhQVF4tZX3OEHhGFk)
+Activity 2 - [Deterministic Finite Automata](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/Abot-Collab-Exer2-3A.ipynb)
 
 **Midterm**
 
-[Midterm Practical Exam using Logistic Regression Model and Linearl Regression Model](https://colab.research.google.com/drive/127KROqC8x-J9aT8jx0HK8618asAVUvGj?authuser=1)
+[Midterm Practical Exam using Logistic Regression Model and Linearl Regression Model](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/3A-ABOT-MIDTERM.ipynb)
 
 
 ## Introduction to Advanced Machine Learning
