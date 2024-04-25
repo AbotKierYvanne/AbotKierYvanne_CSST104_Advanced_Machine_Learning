@@ -37,7 +37,7 @@ Exercise 2 - [Deterministic Finite Automata](https://github.com/AbotKierYvanne/A
 
 Exercise 3 - [NFA to DFA conversion using Epsilon Closures and Subset Construction](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/Abot-Collab-Exer3-3A.ipynb)
 
-Exercise 4 - [Pushdown Automation Diagram Generation in Python using graphViz]([https://colab.research.google.com/drive/1Grs4gZp5m09a68On9nlz2JX0B1ff3yRl](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/Abot-Collab-Exer4-3A.ipynb))
+Exercise 4 - [Pushdown Automation Diagram Generation in Python using graphViz](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/Abot-Collab-Exer4-3A.ipynb))
 
 Exercise 5 - [Assessment Task 5: Bank Customer](https://github.com/AbotKierYvanne/AbotKierYvanne_CSST104_Advanced_Machine_Learning/blob/main/AbotKierYvanne_Logistic_Regression.ipynb)
 
