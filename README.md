@@ -7,7 +7,7 @@ CSST_104_Advanced-Machine-Learning is designed to provide students with an in-de
 
 # Table of Contents:
 
-[Introduction to Advanced Machine Learning](##introduction-to-advanced-machine-learning)
+[Introduction to Advanced Machine Learning](#introduction-to-advanced-machine-learning)
 
 [Advanced Regression Techniques](#Introduction-to-Advanced-Machine-Learning)
 
