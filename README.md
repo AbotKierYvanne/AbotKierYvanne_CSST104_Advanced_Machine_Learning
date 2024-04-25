@@ -25,7 +25,7 @@ CSST_104_Advanced-Machine-Learning is designed to provide students with an in-de
 
 [Case Studies and Applications](#Case-Studies-and-Applications)
 
-Future Trends in Advanced Machine Learning
+[Future Trends in Advanced Machine Learning](#Future-Trends-in-Advanced-Machine-Learning)
 
 # Compilation of activities for the subject CSST 104
 
