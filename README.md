@@ -9,11 +9,11 @@ CSST_104_Advanced-Machine-Learning is designed to provide students with an in-de
 
 [Introduction to Advanced Machine Learning](#introduction-to-advanced-machine-learning)
 
-[Advanced Regression Techniques](#Introduction-to-Advanced-Machine-Learning)
+[Advanced Regression Techniques](#Advanced-Regression-Techniques)
 
-Classification Algorithms
+[Classification Algorithms](#Classification-Algorithms)
 
-Unsupervised Learning
+[Unsupervised Learning](#Unsupervised-Learning)
 
 Advanced Topics in Neural Networks
 
